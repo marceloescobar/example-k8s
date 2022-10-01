@@ -1,0 +1,1 @@
+Exemplo de utilizacao do K8s atraves do plugin JKube
